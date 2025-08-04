@@ -1,5 +1,6 @@
 # Customer-Personality-Analysis-Data-Cleaning-and-Preprocessing
 Cleaned and preprocessed the Customer Personality Analysis dataset by handling nulls, removing duplicates, standardizing text (gender, country, marital status), fixing data types, converting dates, and deriving age column for better customer insights and future analysis.
+
  Objective:
 
 To clean and preprocess raw marketing data by handling missing values, fixing inconsistencies, standardizing formats, and preparing it for further analysis or modeling.
