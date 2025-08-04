@@ -1,4 +1,4 @@
-# Customer-Personality-Analysis-Data-Cleaning-and-Preprocessing
+# Day1_Data_cleaning_and_Preprocessing
 Cleaned and preprocessed the Customer Personality Analysis dataset by handling nulls, removing duplicates, standardizing text (gender, country, marital status), fixing data types, converting dates, and deriving age column for better customer insights and future analysis.
 
  Objective:
@@ -27,7 +27,6 @@ Display original shape and check for missing values.
 
 3. Handle Missing Values
 Fill missing values in the Income column with its mean.
-
 Drop any remaining rows that still contain null values.
 
 4. Remove Duplicates
